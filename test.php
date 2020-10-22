@@ -1,4 +1,6 @@
  <?php
+
+echo "lolo";
      
    require_once 'vendor/autoload.php'; // You have to require the library from your Composer vendor folder
 
